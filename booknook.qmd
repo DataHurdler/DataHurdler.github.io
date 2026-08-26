@@ -1,0 +1,45 @@
+---
+title: "Book Nook"
+format: html
+---
+
+This page contains an incomplete list of books I have read or listened to, inspired by the edX course _Behavioural Economics in Action_ that I took in Fall 2020. Most of these books have something to do with economics (which was not entirely by choice) and/or data analytics. This list is ongoing and is being updated periodically.
+
+The list is ordered alphabetically by book titles.
+
+- _101 Theory Drive_: A Neuroscientist's Quest for Memory, by Terry McDermott [Link](https://www.amazon.com/101-Theory-Drive-Neuroscientists-Memory/dp/0375425381/)
+- _2030_: How Today's Biggest Trends Will Collide and Reshape the Future of Everything, by Mauro F. Guillen [Link](https://www.amazon.com/2030-Biggest-Collide-Reshape-Everything/dp/1250268192/)
+- _21 Lessons for the 21st Century_, by Yuval Noah Harari [Link](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195/)
+- _A Short History of Nearly Everything_, by Bill Bryson [Link](https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X/)
+- _Alan Turing_: The Enigma, by Andrew Hodges [Link](https://www.amazon.com/Alan-Turing-Enigma-Andrew-Hodges/dp/0802775802/)
+- _Beginners_: The Joy and Transformative Power of Lifelong Learning, by Tom Vanderbilt [Link](https://www.amazon.com/Beginners-Transformative-Power-Lifelong-Learning/dp/1524732168/)
+- _Bezonomics_: How Amazon Is Changing Our Lives and What the World's Best Companies Are Learning from It, by Brian Dumaine [Link](https://www.amazon.com/Bezonomics-Amazon-Changing-Companies-Learning/dp/1982113634/)
+- _Breaking Boundaries_: The Science Behind our Planet, by Johan Rockstrom and Owen Gaffney [Link](https://www.amazon.com/Breaking-Boundaries-Johan-Rockstrom/dp/0744028132/)
+- _Chatter_: The Voice in Our Head, Why It Matters, and How to Harness It, by Ethan Kross [Link](https://www.amazon.com/Chatter-Voice-Head-Matters-Harness/dp/0525575243/)
+- _Fooled by Randomness_: The Hidden Role of Chance in Life and in the Markets, by Nassim Nicholas Taleb [Link](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936/)
+- _Hooked_: Food, Free Will, and How the Food Giants Exploit Our Addictions, by Michael Moss [Link](https://www.amazon.com/Hooked-Food-Giants-Exploit-Addictions/dp/0812997298/)
+- _How Not to Be Wrong_: The Power of Mathematical Thinking, by Jordan Ellenberg [Link](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/)
+- _Moneyball_: The Art of Winning an Unfair Game, by Michael Lewis [Link](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818/)
+- _Nudge_: The Final Edition, by Richard H. Thaler and Cass R. Sunstein [Link](https://www.amazon.com/Nudge-Final-Richard-H-Thaler/dp/014313700X/)
+- _Predictably Irrational_: The Hidden Forces That Shape Our Decisions, by Dan Ariely [Link](https://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/0061854549/)
+- _Range_: Why Generalists Triumph in a Specialized World, by David Epstein [Link](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484/)
+- _Real World AI_: A Practical Guide for Responsible Machine Learning, by Alyssa Simpson Rochwerger and Wilson Pang [Link](https://www.amazon.com/Real-World-AI-Practical-Responsible/dp/1544518838/)
+- _Seven And A Half Lessons About The Brain_, by Lisa Feldman Barrett [Link](https://sevenandahalflessons.com/)
+- _Smarter Faster Better_: The Transformative Power of Real Productivity, by Charles Duhigg [Link](https://www.amazon.com/Smarter-Faster-Better-Transformative-Productivity/dp/0812983599/)
+- _Social Chemistry_: Decoding the Patterns of Human Connection, by Marissa King [Link](https://www.amazon.com/Social-Chemistry-Decoding-Patterns-Connection/dp/1524743801/)
+- _Some Assembly Required_: Decoding Four Billion Years of Life, from Ancient Fossils to DNA, by Neil Shubin [Link](https://www.amazon.com/Some-Assembly-Required-Decoding-Billion/dp/1101972688/)
+- _Subtract_: The Untapped Science of Less, by Leidy Klotz [Link](https://www.amazon.com/Subtract-Untapped-Science-Leidy-Klotz/dp/1250249864/)
+- _The Book of Moods_: How I Turned My Worst Emotions Into My Best Life, by Lauren Martin [Link](https://www.amazon.com/Book-Moods-Turned-Worst-Emotions/dp/1538733609/)
+- _The Driver in the Driverless Car_: How Our Technology Choices Will Create the Future, by Vivek Wadhwa and Alex Salkever [Link](https://www.amazon.com/Driver-Driverless-Car-Technology-Choices/dp/1626569711/)
+- _The Evolution of Useful Things_: How Everyday Artifacts-From Forks and Pins to Paper Clips and Zippers-Came to be as They are, by Henry Petroski [Link](https://www.amazon.com/Evolution-Useful-Things-Artifacts-Zippers-Came/dp/0679740392/)
+- _The Fifth Risk_, by Michael Lewis [Link](https://www.amazon.com/Fifth-Risk-Undoing-Democracy/dp/0393357457/)
+- _The Hidden Habits of Genius_: Beyond Talent, IQ, and Grit - Unlocking the Secrets of Greatness, by Craig Wright [Link](https://www.amazon.com/Hidden-Habits-Genius-Grit_Unlocking-Greatness/dp/0062892738/)
+- _The Lean Startup_: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries [Link](https://www.amazon.com/Fifth-Risk-Undoing-Democracy/dp/0393357457/)
+- _The No Asshole Rule_: Building a Civilized Workplace and Surviving One That Isn't, by Robert I. Sutton [Link](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202/)
+- _The Social Animal_: The Hidden Sources of Love, Character, and Achievement, by David Brooks [Link](https://www.amazon.com/Social-Animal-Sources-Character-Achievement/dp/140006760X/)
+- _The Thinking Machine_: Jensen Huang, Nvidia, and the World's Most Coveted Microchip, by Stephen Witt [Link](www.amazon.com/Thinking-Machine-Jensen-Coveted-Microchip/dp/0593832698/)
+- _Think Again_: The Power of Knowing What You Don't Know, by Adam Grant [Link](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107/)
+- _Think Like a Rocket Scientist_: Simple Strategies You Can Use to Make Giant Leaps in Work and Life, by Ozan Varol [Link](https://www.amazon.com/Think-Like-Rocket-Scientist-Strategies/dp/1541762606/)
+- _To Sell Is Human_: The Surprising Truth About Moving Others, by Daniel H. Pink [Link](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/)
+- _When_: The Scientific Secrets of Perfect Timing, by Daniel H. Pink [Link](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210632/)
+- _Why We Get Sick_: The Hidden Epidemic at the Root of Most Chronic Disease--and How to Fight It, by Benjamin Bikman [Link](https://www.amazon.com/Why-We-Get-Sick-Disease_and/dp/194883698X/)

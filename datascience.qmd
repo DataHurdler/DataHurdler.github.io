@@ -1,0 +1,51 @@
+---
+title: "Data Science"
+format: html
+---
+
+This page contains links to my Colab/Jupyter notebooks, as well as useful paid and free online resources. Also, see my GitHub Repo here: [https://github.com/DataHurdler/UdemyPracticeCode](https://github.com/DataHurdler/UdemyPracticeCode).
+
+## Project Notebooks
+
+### Simple TF-IDF Movie Recommender
+[Link to Google Colab Notebook](https://colab.research.google.com/drive/1IyGtr3oqEcx8f5hVUtfmEd9Ko0adxaic?usp=sharing)  
+This is an exercise from Section 2 of Udemy's *Machine Learning: Natural Language Processing in Python* by the [Lazy Programmer](https://lazyprogrammer.me/). The exercise builds a movie recommender with ONLY TF-IDF (no learning).
+
+### Time Series Analysis of Movie Sales in Shanghai
+[Link to Google Colab Notebook](https://colab.research.google.com/drive/1ufhhpase57Ic8jfsdK2YI4NFkR6DUjRg?usp=sharing)  
+I analyze movie sales in Shanghai from 2012-2015 with exponential smoothing (from [statsmodels](https://www.statsmodels.org/dev/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html)) and [Facebook's Prophet](http://facebook.github.io/prophet/). The data is reduced from the one used in my research paper "[The impact of air pollution on movie theater admissions](https://doi.org/10.1016/j.jeem.2022.102626)".
+
+## Online Resources
+
+### YouTube
+- Learn Python - Full Course for Beginners [Link](https://youtu.be/rfscVS0vtbw)
+- Python Tutorial - Python Full Course for Beginners [Link](https://youtu.be/_uQrJ0TkZlc)
+- Intermediate Python Programming Course [Link](https://youtu.be/HGOBQPFzWKo)
+- Machine Learning Course in Python [Link](https://youtube.com/playlist?list=PLKYEe2WisBTFp37hFFdGg_VoLLamLYiL8)
+- SQL Tutorial - Advanced Concepts [Link](https://youtube.com/playlist?list=PLavw5C92dz9GbmgiW4TWVnxhjMFOIf0Q7)
+
+### Coursera/Udemy Courses
+- Machine Learning [Link](https://www.coursera.org/learn/machine-learning)
+- 100 Days of Code: The Complete Python Pro Bootcamp [Link](https://www.udemy.com/course/100-days-of-code/)
+- Complete Machine Learning and Data Science Bootcamp [Link](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+- Machine Learning: Natural Language Processing in Python V2 [Link](https://www.udemy.com/course/natural-language-processing-in-python/)
+- Advanced SQL: MySQL Data Analysis and Business Intelligence [Link](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)
+
+### Datasets
+- Maven Analytics Data Playground [Link](https://www.mavenanalytics.io/data-playground)
+- Kaggle Datasets [Link](https://www.kaggle.com/datasets)
+- Bruce Hardie Datasets [Link](https://www.brucehardie.com/datasets/)
+
+### Books
+- Causal Inference: The Mixtape [Link](https://mixtape.scunning.com/index.html)
+- Discrete Choice Methods with Simulation [Link](https://eml.berkeley.edu/books/choice2.html)
+- Forecasting: Principles and Practice [Link](https://otexts.com/fpp3/)
+- An Introduction to Statistical Learning [Link](https://www.statlearning.com/)
+- Deep Learning [Link](https://www.deeplearningbook.org/)
+- Introduction to Probability for Data Science [Link](https://probability4datascience.com/)
+- Scientific Visualization: Python + Matplotlib [Link](https://github.com/rougier/scientific-visualization-book)
+- Reinforcement Learning: An Introduction [Link](http://incompleteideas.net/book/the-book-2nd.html)
+- R for Data Science (2e) [Link](https://r4ds.hadley.nz/)
+
+### Web Sites/Pages
+- Comprehensive list of activation functions in neural networks with pros/cons [Link](https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons)

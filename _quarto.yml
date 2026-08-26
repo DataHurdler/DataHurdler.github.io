@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CV_Luo.pdf
+  
+website:
+  page-navigation: false
+  title: "Zijun Luo"
+  site-url: https://www.luozijun.com
+  favicon: images/z-icon.png
+  # repo-url: https://github.com/lianyujun/lianyujun.github.io
+  # repo-actions: [edit, issue]
+  
+  page-footer:
+    # left: |
+    #   [lianxh.cn](https://www.lianxh.cn)<br>
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
+    
+  navbar: 
+    # background: "#A9CCE3"
+    search: true
+    left: 
+      - text: "Home"
+        href: index.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Book Nook"
+        href: booknook.qmd
+      - text: "Resume"
+        href: resume.qmd
+
+format:
+  html:
+    theme: pulse
+    # theme: styles.scss
+    toc: false            # 启用目录
+    toc-position: right  # 将目录放置在页面的右侧
+    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细

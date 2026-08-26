@@ -1,0 +1,43 @@
+---
+title: "Zijun Luo"
+image: images/zijunluo.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: zluo@unomaha.edu
+      href: mailto:zluo@unomaha.edu
+    - icon: envelope
+      text: Personal Email
+      href: mailto:zijunluo8620@gmail.com
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=W25LRlcAAAAJ
+    - icon: github
+      text: Github
+      href: https://github.com/datahurdler
+    # - icon: fingerprint
+    #   text: ORCID
+    #   href: https://orcid.org/0000-0002-2011-7535
+    - icon: link
+      text: Econ-ML
+      href: https://datahurdler.github.io/Econ-ML-Book/
+    - icon: keyboard
+      text: Curriculum Vitae
+      href: CV_Luo.pdf  
+---
+
+::: {#hero-heading}
+
+Welcome to my homepage!
+
+I am an assistant professor of economics at the University of Nebraska at Omaha. My research focuses on applied microeconomics, with particular interests in conflict theory and the Chinese economy. I am also interested in behavioral economics and machine learning/AI, and I enjoy involving students in research projects.
+
+Before returning to UNO, I worked in industry and government as a senior data scientist at Zeenk, a statistical analyst at the Nebraska Department of Health and Human Services, and a quantitative analyst at Farm Credit Services of America. Earlier in my academic career, I held full-time faculty positions at Colgate University, Sam Houston State University, and UNO. I earned my Ph.D. in Economics from Kansas State University in 2012.
+
+In my free time, I enjoy [reading](booknook.qmd), [playing music](https://www.youtube.com/@ShootingStarOcarina), and making ceramic ocarinas.
+
+:::

@@ -1,0 +1,54 @@
+---
+title: "Teaching"
+format: html
+---
+
+## University of Nebraska at Omaha
+
+- Principles of Microeconomics (ECON2200)
+  - Spring 2026(2), Spring 2022, Fall 2021
+- Intermediate Microeconomics (ECON3200)
+  - Fall 2025
+- Business Forecasting (ECON8310)
+  - Fall 2026
+- Economics: Essential Concepts for Managers (BSAD8150, MBA)
+  - Spring 2025, Fall 2024, Spring 2022(3), Fall 2021(2)
+- Business Analytics (BSAD8700, MBA)
+  - Fall 2025, Summer 2025(2), Summer 2024(2), Spring 2024(2), Fall 2023(2), Summer 2023(2), Spring 2023(2), Summer 2021, Spring 2021
+- EMBA Decision/Data Analytics
+  - Summer 2025(2), Summer 2024(3), Spring 2022, Spring 2021
+
+## Sam Houston State University
+
+- Business Statistics (BANA2372)
+  - Spring 2020(2), Fall 2019(2), Spring 2019(2), Fall 2018(2), Spring 2018(2), Fall 2017(3), Summer 2017, Spring 2017, Fall 2016(2), Spring 2016(2), Fall 2015(2)
+- Principles of Microeconomics (ECON2302)
+  - Summer 2019, Summer 2018, Spring 2017(2), Summer 2016
+- Intermediate Microeconomics (ECON3357)
+  - Fall 2015, Summer 2015
+- Industrial Organization (ECON3370)
+  - Spring 2020, Spring 2019, Spring 2018
+- International Economics (ECON4340)
+  - Spring 2019, Fall 2018, Fall 2017, Spring 2017, Fall 2016, Spring 2016
+
+## Colgate University
+
+- Introduction to Economics (ECON151)
+  - Spring 2015(2), Fall 2014(2), Fall 2013, Spring 2013, Fall 2012(2)
+- Chinese Economy (ECON219)
+  - Fall 2014, Spring 2014(2), Fall 2013(2), Spring 2013
+- Intermediate Microeconomics (ECON251)
+  - Fall 2012
+- Seminar in International Economics (ECON450)
+  - Spring 2015
+
+## Kansas State University
+
+- Principles of Macroeconomics (ECON110)
+  - Spring 2011
+- Principles of Microeconomics (ECON120)
+  - Summer 2011
+- Intermediate Microeconomics (ECON520)
+  - Spring 2012, Fall 2011, Fall 2010, Spring 2010, Fall 2009
+- Managerial Economics (ECON540)
+  - Summer 2012

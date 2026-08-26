@@ -1,0 +1,36 @@
+---
+title: "Resume"
+format: html
+---
+
+_Last updated: August 18, 2025_
+
+---
+
+## Employment History
+
+### Full-time Employment
+- Assistant Professor of Economics, University of Nebraska at Omaha - Aug 2025 to current
+- Quantitative Analyst, Farm Credit Services of America - Apr 2024 to Aug 2025
+- Statistical Analyst III, Nebraska Department of Health and Human Services - Apr 2023 to Mar 2024
+- Senior Data Scientist, Zeenk - Jun 2022 to Nov 2022
+- Instructor of Economics, University of Nebraska at Omaha - Feb 2021 to Jun 2022
+- Assistant Professor of Economics, Sam Houston State University - Jun 2015 to May 2020
+- Visiting Assistant Professor of Economics, Colgate University - Jul 2012 to May 2015
+
+### Part-time Employment
+- Adjunct Instructor, University of Nebraska at Omaha - Jan 2023 to Aug 2025
+- Consultant, StrategyGen - Oct 2021 to Jun 2022
+
+---
+
+## Education History
+- Ph.D., Economics, Kansas State University - Aug 2008 to Jun 2012
+- B.A., Economics, South China Normal University - Sep 2003 to Jun 2007
+
+---
+
+## Research Interests
+- Applied Microeconomics
+- Conflict and Contest Theories
+- Chinese Economy
