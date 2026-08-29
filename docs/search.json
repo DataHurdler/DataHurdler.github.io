@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "datascience.html",
+    "href": "datascience.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "This page contains links to my Colab/Jupyter notebooks, as well as useful paid and free online resources. Also, see my GitHub Repo here: https://github.com/DataHurdler/UdemyPracticeCode."
+  },
+  {
+    "objectID": "datascience.html#project-notebooks",
+    "href": "datascience.html#project-notebooks",
+    "title": "Data Science",
+    "section": "Project Notebooks",
+    "text": "Project Notebooks\n\nSimple TF-IDF Movie Recommender\nLink to Google Colab Notebook\nThis is an exercise from Section 2 of Udemy’s Machine Learning: Natural Language Processing in Python by the Lazy Programmer. The exercise builds a movie recommender with ONLY TF-IDF (no learning).\n\n\nTime Series Analysis of Movie Sales in Shanghai\nLink to Google Colab Notebook\nI analyze movie sales in Shanghai from 2012-2015 with exponential smoothing (from statsmodels) and Facebook’s Prophet. The data is reduced from the one used in my research paper “The impact of air pollution on movie theater admissions”."
+  },
+  {
+    "objectID": "datascience.html#online-resources",
+    "href": "datascience.html#online-resources",
+    "title": "Data Science",
+    "section": "Online Resources",
+    "text": "Online Resources\n\nYouTube\n\nLearn Python - Full Course for Beginners Link\nPython Tutorial - Python Full Course for Beginners Link\nIntermediate Python Programming Course Link\nMachine Learning Course in Python Link\nSQL Tutorial - Advanced Concepts Link\n\n\n\nCoursera/Udemy Courses\n\nMachine Learning Link\n100 Days of Code: The Complete Python Pro Bootcamp Link\nComplete Machine Learning and Data Science Bootcamp Link\nMachine Learning: Natural Language Processing in Python V2 Link\nAdvanced SQL: MySQL Data Analysis and Business Intelligence Link\n\n\n\nDatasets\n\nMaven Analytics Data Playground Link\nKaggle Datasets Link\nBruce Hardie Datasets Link\n\n\n\nBooks\n\nCausal Inference: The Mixtape Link\nDiscrete Choice Methods with Simulation Link\nForecasting: Principles and Practice Link\nAn Introduction to Statistical Learning Link\nDeep Learning Link\nIntroduction to Probability for Data Science Link\nScientific Visualization: Python + Matplotlib Link\nReinforcement Learning: An Introduction Link\nR for Data Science (2e) Link\n\n\n\nWeb Sites/Pages\n\nComprehensive list of activation functions in neural networks with pros/cons Link"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Last updated: August 18, 2025"
+  },
+  {
+    "objectID": "resume.html#employment-history",
+    "href": "resume.html#employment-history",
+    "title": "Resume",
+    "section": "Employment History",
+    "text": "Employment History\n\nFull-time Employment\n\nAssistant Professor of Economics, University of Nebraska at Omaha - Aug 2025 to current\nQuantitative Analyst, Farm Credit Services of America - Apr 2024 to Aug 2025\nStatistical Analyst III, Nebraska Department of Health and Human Services - Apr 2023 to Mar 2024\nSenior Data Scientist, Zeenk - Jun 2022 to Nov 2022\nInstructor of Economics, University of Nebraska at Omaha - Feb 2021 to Jun 2022\nAssistant Professor of Economics, Sam Houston State University - Jun 2015 to May 2020\nVisiting Assistant Professor of Economics, Colgate University - Jul 2012 to May 2015\n\n\n\nPart-time Employment\n\nAdjunct Instructor, University of Nebraska at Omaha - Jan 2023 to Aug 2025\nConsultant, StrategyGen - Oct 2021 to Jun 2022"
+  },
+  {
+    "objectID": "resume.html#education-history",
+    "href": "resume.html#education-history",
+    "title": "Resume",
+    "section": "Education History",
+    "text": "Education History\n\nPh.D., Economics, Kansas State University - Aug 2008 to Jun 2012\nB.A., Economics, South China Normal University - Sep 2003 to Jun 2007"
+  },
+  {
+    "objectID": "resume.html#research-interests",
+    "href": "resume.html#research-interests",
+    "title": "Resume",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nApplied Microeconomics\nConflict and Contest Theories\nChinese Economy"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Principles of Microeconomics (ECON2200)\n\nSpring 2026(2), Spring 2022, Fall 2021\n\nIntermediate Microeconomics (ECON3200)\n\nFall 2025\n\nBusiness Forecasting (ECON8310)\n\nFall 2026\n\nEconomics: Essential Concepts for Managers (BSAD8150, MBA)\n\nSpring 2025, Fall 2024, Spring 2022(3), Fall 2021(2)\n\nBusiness Analytics (BSAD8700, MBA)\n\nFall 2025, Summer 2025(2), Summer 2024(2), Spring 2024(2), Fall 2023(2), Summer 2023(2), Spring 2023(2), Summer 2021, Spring 2021\n\nEMBA Decision/Data Analytics\n\nSummer 2025(2), Summer 2024(3), Spring 2022, Spring 2021"
+  },
+  {
+    "objectID": "teaching.html#university-of-nebraska-at-omaha",
+    "href": "teaching.html#university-of-nebraska-at-omaha",
+    "title": "Teaching",
+    "section": "",
+    "text": "Principles of Microeconomics (ECON2200)\n\nSpring 2026(2), Spring 2022, Fall 2021\n\nIntermediate Microeconomics (ECON3200)\n\nFall 2025\n\nBusiness Forecasting (ECON8310)\n\nFall 2026\n\nEconomics: Essential Concepts for Managers (BSAD8150, MBA)\n\nSpring 2025, Fall 2024, Spring 2022(3), Fall 2021(2)\n\nBusiness Analytics (BSAD8700, MBA)\n\nFall 2025, Summer 2025(2), Summer 2024(2), Spring 2024(2), Fall 2023(2), Summer 2023(2), Spring 2023(2), Summer 2021, Spring 2021\n\nEMBA Decision/Data Analytics\n\nSummer 2025(2), Summer 2024(3), Spring 2022, Spring 2021"
+  },
+  {
+    "objectID": "teaching.html#sam-houston-state-university",
+    "href": "teaching.html#sam-houston-state-university",
+    "title": "Teaching",
+    "section": "Sam Houston State University",
+    "text": "Sam Houston State University\n\nBusiness Statistics (BANA2372)\n\nSpring 2020(2), Fall 2019(2), Spring 2019(2), Fall 2018(2), Spring 2018(2), Fall 2017(3), Summer 2017, Spring 2017, Fall 2016(2), Spring 2016(2), Fall 2015(2)\n\nPrinciples of Microeconomics (ECON2302)\n\nSummer 2019, Summer 2018, Spring 2017(2), Summer 2016\n\nIntermediate Microeconomics (ECON3357)\n\nFall 2015, Summer 2015\n\nIndustrial Organization (ECON3370)\n\nSpring 2020, Spring 2019, Spring 2018\n\nInternational Economics (ECON4340)\n\nSpring 2019, Fall 2018, Fall 2017, Spring 2017, Fall 2016, Spring 2016"
+  },
+  {
+    "objectID": "teaching.html#colgate-university",
+    "href": "teaching.html#colgate-university",
+    "title": "Teaching",
+    "section": "Colgate University",
+    "text": "Colgate University\n\nIntroduction to Economics (ECON151)\n\nSpring 2015(2), Fall 2014(2), Fall 2013, Spring 2013, Fall 2012(2)\n\nChinese Economy (ECON219)\n\nFall 2014, Spring 2014(2), Fall 2013(2), Spring 2013\n\nIntermediate Microeconomics (ECON251)\n\nFall 2012\n\nSeminar in International Economics (ECON450)\n\nSpring 2015"
+  },
+  {
+    "objectID": "teaching.html#kansas-state-university",
+    "href": "teaching.html#kansas-state-university",
+    "title": "Teaching",
+    "section": "Kansas State University",
+    "text": "Kansas State University\n\nPrinciples of Macroeconomics (ECON110)\n\nSpring 2011\n\nPrinciples of Microeconomics (ECON120)\n\nSummer 2011\n\nIntermediate Microeconomics (ECON520)\n\nSpring 2012, Fall 2011, Fall 2010, Spring 2010, Fall 2009\n\nManagerial Economics (ECON540)\n\nSummer 2012"
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music Corner",
+    "section": "",
+    "text": "Pentatonic Woodwinds (2024-present)\n\n\nOmaha Hulusi Ensemble (2025-present)\n\n\nNCA Chinese School Band (2026-present)\n\n\nNebraska Wind Symphony (2026-present)\n\n\nUNO University Band (2025-present)\n\n\nQuite Nice Quartet (2024-present)\n\n\nShooting Star Ocarina (2020-present)\n\n\nIowa Western Community Band (2023-2025)"
+  },
+  {
+    "objectID": "booknook.html",
+    "href": "booknook.html",
+    "title": "Book Nook",
+    "section": "",
+    "text": "This page contains an incomplete list of books I have read or listened to, inspired by the edX course Behavioural Economics in Action that I took in Fall 2020. Most of these books have something to do with economics (which was not entirely by choice) and/or data analytics. This list is ongoing and is being updated periodically.\nThe list is ordered alphabetically by book titles.\n\n101 Theory Drive: A Neuroscientist’s Quest for Memory, by Terry McDermott Link\n2030: How Today’s Biggest Trends Will Collide and Reshape the Future of Everything, by Mauro F. Guillen Link\n21 Lessons for the 21st Century, by Yuval Noah Harari Link\nA Short History of Nearly Everything, by Bill Bryson Link\nAlan Turing: The Enigma, by Andrew Hodges Link\nBeginners: The Joy and Transformative Power of Lifelong Learning, by Tom Vanderbilt Link\nBezonomics: How Amazon Is Changing Our Lives and What the World’s Best Companies Are Learning from It, by Brian Dumaine Link\nBreaking Boundaries: The Science Behind our Planet, by Johan Rockstrom and Owen Gaffney Link\nChatter: The Voice in Our Head, Why It Matters, and How to Harness It, by Ethan Kross Link\nFooled by Randomness: The Hidden Role of Chance in Life and in the Markets, by Nassim Nicholas Taleb Link\nHooked: Food, Free Will, and How the Food Giants Exploit Our Addictions, by Michael Moss Link\nHow Not to Be Wrong: The Power of Mathematical Thinking, by Jordan Ellenberg Link\nMoneyball: The Art of Winning an Unfair Game, by Michael Lewis Link\nNudge: The Final Edition, by Richard H. Thaler and Cass R. Sunstein Link\nPredictably Irrational: The Hidden Forces That Shape Our Decisions, by Dan Ariely Link\nRange: Why Generalists Triumph in a Specialized World, by David Epstein Link\nReal World AI: A Practical Guide for Responsible Machine Learning, by Alyssa Simpson Rochwerger and Wilson Pang Link\nSeven And A Half Lessons About The Brain, by Lisa Feldman Barrett Link\nSmarter Faster Better: The Transformative Power of Real Productivity, by Charles Duhigg Link\nSocial Chemistry: Decoding the Patterns of Human Connection, by Marissa King Link\nSome Assembly Required: Decoding Four Billion Years of Life, from Ancient Fossils to DNA, by Neil Shubin Link\nSubtract: The Untapped Science of Less, by Leidy Klotz Link\nThe Book of Moods: How I Turned My Worst Emotions Into My Best Life, by Lauren Martin Link\nThe Driver in the Driverless Car: How Our Technology Choices Will Create the Future, by Vivek Wadhwa and Alex Salkever Link\nThe Evolution of Useful Things: How Everyday Artifacts-From Forks and Pins to Paper Clips and Zippers-Came to be as They are, by Henry Petroski Link\nThe Fifth Risk, by Michael Lewis Link\nThe Hidden Habits of Genius: Beyond Talent, IQ, and Grit - Unlocking the Secrets of Greatness, by Craig Wright Link\nThe Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries Link\nThe No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn’t, by Robert I. Sutton Link\nThe Social Animal: The Hidden Sources of Love, Character, and Achievement, by David Brooks Link\nThe Thinking Machine: Jensen Huang, Nvidia, and the World’s Most Coveted Microchip, by Stephen Witt Link\nThink Again: The Power of Knowing What You Don’t Know, by Adam Grant Link\nThink Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life, by Ozan Varol Link\nTo Sell Is Human: The Surprising Truth About Moving Others, by Daniel H. Pink Link\nWhen: The Scientific Secrets of Perfect Timing, by Daniel H. Pink Link\nWhy We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease–and How to Fight It, by Benjamin Bikman Link"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Yang Jiao and Zijun Luo. A Model of Terrorism and Counterterrorism with Location Choices. Public Choice, 179, 301-313, 2019. Link\nZijun Luo and Xin Xie. A Model of Rivalries with Endogenous Prize and Strength. Journal of Economic Behavior and Organization, 152, 215-223, 2018. Link\nYang-Ming Chang, Zijun Luo, and Yongjing Zhang. The Timing of Third-Party Intervention in Social Conflict. Defence and Peace Economics, 29(2), 91-110, 2018. Link\nYang-Ming Chang and Zijun Luo. Endogenous Destruction in Conflict: Theory and Extensions. Economic Inquiry, 55(1), 479-500, 2017. Link\nYang-Ming Chang and Zijun Luo. Endogenous Division Rules as a Family Constitution: Strategic Altruistic Transfers and Sibling Competition. Journal of Population Economics, 28(1), 173-194, 2015. Link\nYang-Ming Chang and Zijun Luo. War or Settlement: An Economic Analysis of Conflict with Endogenous and Increasing Destruction. Defence and Peace Economics, 24(1), 23-46, 2013. Link\n\n\n\n\n\nYing Zhou, Zijun Luo, and Xu Tian. The Impact of Animal Disease Outbreaks on China’s Meat Imports. Emerging Markets Finance and Trade, 59, 3550-3576, 2023. Link\nXiaobo He, Zijun Luo, and Junjie Zhang. The Impact of Air Pollution on Movie Theater Admissions. Journal of Environmental Economics and Management, 113, 10262, 2022. Link\nZijun Luo and Yonghong Zhou. Decomposing the Effects of Consumer Boycotts: Evidence from the Anti-Japanese Demonstration in China. Empirical Economics, 58, 2615-2634, 2020. Link\nXiaobo He and Zijun Luo. Does Hukou Pay? Evidence from Nanny Markets in Urban China. China Economic Review, 63, 101509, 2020. Link\nZijun Luo and Xu Tian. Can China’s Meat Imports Be Sustainable? A Case Study of Mad Cow Disease. Applied Economics, 50(9), 1022-1042, 2018. Link\nZhiqiang Dong, Zijun Luo, and Xiahai Wei. Social Insurance with Chinese Characteristics: The Role of Communist Party in Private Firms. China Economic Review, 37, 40-51, 2016. Link\n\n\n\n\n\nWeiguang Deng, Xue Li, and Zijun Luo. A Model of Police Financing through Income and Consumption Taxes. Scottish Journal of Political Economy, 70, 217-230, 2023. Link\nLindsay C. Clark, Zijun Luo, and Ashly Bender Smith. Effects of Course-Embedded Grammar Graders: Evidence from a Business College Writing Initiative Program. Research & Practice in Assessment, 15(2), 2020. Link\nCharles B. Braymen, Yang-Ming Chang, and Zijun Luo. Tax Policies, Regional Trade Agreements, and FDI: A Welfare Analysis. Pacific Economic Review, 21(2), 123-150, 2016. Link\nPhilip G. Gayle and Zijun Luo. Choosing between Order-of-Entry Assumptions in Empirical Entry Models: Evidence from Competition between Burger King and McDonald’s Restaurant Outlets. Journal of Industrial Economics, 63, 129-151, 2015. Link"
+  },
+  {
+    "objectID": "research.html#conflict-and-contest",
+    "href": "research.html#conflict-and-contest",
+    "title": "Publications",
+    "section": "",
+    "text": "Yang Jiao and Zijun Luo. A Model of Terrorism and Counterterrorism with Location Choices. Public Choice, 179, 301-313, 2019. Link\nZijun Luo and Xin Xie. A Model of Rivalries with Endogenous Prize and Strength. Journal of Economic Behavior and Organization, 152, 215-223, 2018. Link\nYang-Ming Chang, Zijun Luo, and Yongjing Zhang. The Timing of Third-Party Intervention in Social Conflict. Defence and Peace Economics, 29(2), 91-110, 2018. Link\nYang-Ming Chang and Zijun Luo. Endogenous Destruction in Conflict: Theory and Extensions. Economic Inquiry, 55(1), 479-500, 2017. Link\nYang-Ming Chang and Zijun Luo. Endogenous Division Rules as a Family Constitution: Strategic Altruistic Transfers and Sibling Competition. Journal of Population Economics, 28(1), 173-194, 2015. Link\nYang-Ming Chang and Zijun Luo. War or Settlement: An Economic Analysis of Conflict with Endogenous and Increasing Destruction. Defence and Peace Economics, 24(1), 23-46, 2013. Link"
+  },
+  {
+    "objectID": "research.html#chinese-economy",
+    "href": "research.html#chinese-economy",
+    "title": "Publications",
+    "section": "",
+    "text": "Ying Zhou, Zijun Luo, and Xu Tian. The Impact of Animal Disease Outbreaks on China’s Meat Imports. Emerging Markets Finance and Trade, 59, 3550-3576, 2023. Link\nXiaobo He, Zijun Luo, and Junjie Zhang. The Impact of Air Pollution on Movie Theater Admissions. Journal of Environmental Economics and Management, 113, 10262, 2022. Link\nZijun Luo and Yonghong Zhou. Decomposing the Effects of Consumer Boycotts: Evidence from the Anti-Japanese Demonstration in China. Empirical Economics, 58, 2615-2634, 2020. Link\nXiaobo He and Zijun Luo. Does Hukou Pay? Evidence from Nanny Markets in Urban China. China Economic Review, 63, 101509, 2020. Link\nZijun Luo and Xu Tian. Can China’s Meat Imports Be Sustainable? A Case Study of Mad Cow Disease. Applied Economics, 50(9), 1022-1042, 2018. Link\nZhiqiang Dong, Zijun Luo, and Xiahai Wei. Social Insurance with Chinese Characteristics: The Role of Communist Party in Private Firms. China Economic Review, 37, 40-51, 2016. Link"
+  },
+  {
+    "objectID": "research.html#other",
+    "href": "research.html#other",
+    "title": "Publications",
+    "section": "",
+    "text": "Weiguang Deng, Xue Li, and Zijun Luo. A Model of Police Financing through Income and Consumption Taxes. Scottish Journal of Political Economy, 70, 217-230, 2023. Link\nLindsay C. Clark, Zijun Luo, and Ashly Bender Smith. Effects of Course-Embedded Grammar Graders: Evidence from a Business College Writing Initiative Program. Research & Practice in Assessment, 15(2), 2020. Link\nCharles B. Braymen, Yang-Ming Chang, and Zijun Luo. Tax Policies, Regional Trade Agreements, and FDI: A Welfare Analysis. Pacific Economic Review, 21(2), 123-150, 2016. Link\nPhilip G. Gayle and Zijun Luo. Choosing between Order-of-Entry Assumptions in Empirical Entry Models: Evidence from Competition between Burger King and McDonald’s Restaurant Outlets. Journal of Industrial Economics, 63, 129-151, 2015. Link"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zijun Luo",
+    "section": "",
+    "text": "zluo@unomaha.edu\n  \n  \n    \n     Personal Email\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Github\n  \n  \n    \n     Econ-ML\n  \n  \n    \n     Curriculum Vitae\n  \n\n  \n  \nWelcome to my homepage!\nI am an assistant professor of economics at the University of Nebraska at Omaha. My research focuses on applied microeconomics, with particular interests in conflict theory and the Chinese economy. I am also interested in behavioral economics and machine learning/AI, and I enjoy involving students in research projects.\nBefore returning to UNO, I worked in industry and government as a senior data scientist at Zeenk, a statistical analyst at the Nebraska Department of Health and Human Services, and a quantitative analyst at Farm Credit Services of America. Earlier in my academic career, I held full-time faculty positions at Colgate University, Sam Houston State University, and UNO. I earned my Ph.D. in Economics from Kansas State University in 2012.\nIn my free time, I enjoy reading and playing music."
+  }
+]
