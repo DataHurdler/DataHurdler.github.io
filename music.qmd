@@ -1,9 +1,9 @@
 ---
 title: "Music Corner"
-description: |
-  This is a list of musical things I do or have done.
 format: html
 ---
+
+This is a list of musical things I do or have done.
 
 ### [Pentatonic Woodwinds](./pentatonicwoodwinds/) (2024-present)
 ### [Omaha Hulusi Ensemble](./omahahulusi/) (2025-present)
