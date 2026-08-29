@@ -3,9 +3,9 @@ title: "Research"
 format: html
 ---
 
-# Publications
+## Publications
 
-## Conflict and Contest
+### Conflict and Contest
 
 1. Yang Jiao and Zijun Luo. A Model of Terrorism and Counterterrorism with Location Choices. _Public Choice_, 179, 301-313, 2019. [Link](https://link.springer.com/article/10.1007/s11127-018-0559-8)
 2. Zijun Luo and Xin Xie. A Model of Rivalries with Endogenous Prize and Strength. _Journal of Economic Behavior and Organization_, 152, 215-223, 2018. [Link](https://www.sciencedirect.com/science/article/pii/S0167268118301689)
@@ -14,7 +14,7 @@ format: html
 5. Yang-Ming Chang and Zijun Luo. Endogenous Division Rules as a Family Constitution: Strategic Altruistic Transfers and Sibling Competition. _Journal of Population Economics_, 28(1), 173-194, 2015. [Link](http://rd.springer.com/article/10.1007/s00148-013-0501-9)
 6. Yang-Ming Chang and Zijun Luo. War or Settlement: An Economic Analysis of Conflict with Endogenous and Increasing Destruction. _Defence and Peace Economics_, 24(1), 23-46, 2013. [Link](http://www.tandfonline.com/doi/full/10.1080/10242694.2012.659862)
 
-## Chinese Economy
+### Chinese Economy
 
 1. Ying Zhou, Zijun Luo, and Xu Tian. The Impact of Animal Disease Outbreaks on China’s Meat Imports. _Emerging Markets Finance and Trade_, 59, 3550-3576, 2023. [Link](https://www.tandfonline.com/doi/full/10.1080/1540496X.2023.2223929)
 2. Xiaobo He, Zijun Luo, and Junjie Zhang. The Impact of Air Pollution on Movie Theater Admissions. _Journal of Environmental Economics and Management_, 113, 10262, 2022. [Link](https://doi.org/10.1016/j.jeem.2022.102626)
@@ -23,14 +23,14 @@ format: html
 5. Zijun Luo and Xu Tian. Can China’s Meat Imports Be Sustainable? A Case Study of Mad Cow Disease. _Applied Economics_, 50(9), 1022-1042, 2018. [Link](http://dx.doi.org/10.1080/00036846.2017.1349288)
 6. Zhiqiang Dong, Zijun Luo, and Xiahai Wei. Social Insurance with Chinese Characteristics: The Role of Communist Party in Private Firms. _China Economic Review_, 37, 40-51, 2016. [Link](http://dx.doi.org/10.1016/j.chieco.2015.09.009)
 
-## Other
+### Other
 
 1. Weiguang Deng, Xue Li, and Zijun Luo. A Model of Police Financing through Income and Consumption Taxes. _Scottish Journal of Political Economy_, 70, 217-230, 2023. [Link](https://onlinelibrary.wiley.com/doi/10.1111/sjpe.12337)
 2. Lindsay C. Clark, Zijun Luo, and Ashly Bender Smith. Effects of Course-Embedded Grammar Graders: Evidence from a Business College Writing Initiative Program. _Research & Practice in Assessment_, 15(2), 2020. [Link](https://www.rpajournal.com/effects-of-course-embedded-grammar-graders-evidence-from-a-business-college-writing-initiative-program/)
 3. Charles B. Braymen, Yang-Ming Chang, and Zijun Luo. Tax Policies, Regional Trade Agreements, and FDI: A Welfare Analysis. _Pacific Economic Review_, 21(2), 123-150, 2016. [Link](http://onlinelibrary.wiley.com/doi/10.1111/1468-0106.12077/abstract)
 4. Philip G. Gayle and Zijun Luo. Choosing between Order-of-Entry Assumptions in Empirical Entry Models: Evidence from Competition between Burger King and McDonald’s Restaurant Outlets. _Journal of Industrial Economics_, 63, 129-151, 2015. [Link](http://onlinelibrary.wiley.com/doi/10.1111/joie.12066/abstract)
 
-# Working Papers
+## Working Papers
 
 1. Income Rank and the Valuation of Child Obedience (with Shunyi Yan, Yonghong Zhou, and Qing Yao)
 2. The Impact of Aging on AI Adoption: Evidence from China (with Guofeng Guan and Xiaobo He)
