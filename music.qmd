@@ -1,5 +1,5 @@
 ---
-title: "Music"
+title: "Music Corner"
 description: |
   This is a list of musical things I do or have done.
 format: html
