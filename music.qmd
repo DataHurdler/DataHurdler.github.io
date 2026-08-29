@@ -5,11 +5,11 @@ format: html
 
 This is a list of musical things I do or have done.
 
-### [Pentatonic Woodwinds](./pentatonicwoodwinds/) (2024-present)
-### [Omaha Hulusi Ensemble](./omahahulusi/) (2025-present)
-### [NCA Chinese School](https://www.ncachineseschool.com/) Band (2026-present)
-### [Nebraska Wind Symphony](https://nebraskawindsymphony.com/) (2026-present)
-### UNO University Band (2025-present)
-### Quite Nice Quartet (2024-present)
-### [Shooting Star Ocarina](https://www.youtube.com/@ShootingStarOcarina) (2020-present)
-### Iowa Western Community Band (2023-2025)
+- [Pentatonic Woodwinds](./pentatonicwoodwinds/) (2024-present)
+- [Omaha Hulusi Ensemble](./omahahulusi/) (2025-present)
+- [NCA Chinese School](https://www.ncachineseschool.com/) Band (2026-present)
+- [Nebraska Wind Symphony](https://nebraskawindsymphony.com/) (2026-present)
+- UNO University Band (2025-present)
+- Quite Nice Quartet (2024-present)
+- [Shooting Star Ocarina](https://www.youtube.com/@ShootingStarOcarina) (2020-present)
+- Iowa Western Community Band (2023-2025)
