@@ -5,10 +5,10 @@ description: |
 format: html
 ---
 
-### [Pentatonic Woodwinds](./pentatonicwoodwinds) (2024-present)
-### Omaha Hulusi Ensemble (2025-present)
-### NCA Chinese School Band (2026-present)
-### Nebraska Wind Symphony (2026-present)
+### [Pentatonic Woodwinds](./pentatonicwoodwinds/) (2024-present)
+### [Omaha Hulusi Ensemble](./omahahulusi/) (2025-present)
+### [NCA Chinese School](https://www.ncachineseschool.com/) Band (2026-present)
+### [Nebraska Wind Symphony](https://nebraskawindsymphony.com/) (2026-present)
 ### UNO University Band (2025-present)
 ### Quite Nice Quartet (2024-present)
 ### [Shooting Star Ocarina](https://www.youtube.com/@ShootingStarOcarina) (2020-present

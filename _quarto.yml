@@ -30,7 +30,7 @@ website:
         href: research.qmd
       - text: "Book Nook"
         href: booknook.qmd
-      - text: "Music"
+      - text: "Music Corner"
         href: music.qmd
       - text: "Resume"
         href: resume.qmd
