@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.luozijun.com/datascience.html</loc>
-    <lastmod>2026-06-21T11:57:39.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.luozijun.com/resume.html</loc>
-    <lastmod>2026-06-21T11:57:39.538Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.luozijun.com/teaching.html</loc>
     <lastmod>2026-06-21T11:57:39.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.luozijun.com/research.html</loc>
+    <lastmod>2026-09-02T02:50:49.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.luozijun.com/index.html</loc>
+    <lastmod>2026-08-29T03:07:15.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.luozijun.com/booknook.html</loc>
+    <lastmod>2026-09-02T02:48:31.996Z</lastmod>
   </url>
   <url>
     <loc>https://www.luozijun.com/music.html</loc>
     <lastmod>2026-08-29T03:31:25.514Z</lastmod>
   </url>
   <url>
-    <loc>https://www.luozijun.com/booknook.html</loc>
-    <lastmod>2026-06-21T11:57:39.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.luozijun.com/research.html</loc>
-    <lastmod>2026-08-29T03:26:56.691Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.luozijun.com/index.html</loc>
-    <lastmod>2026-08-29T03:07:15.255Z</lastmod>
+    <loc>https://www.luozijun.com/resume.html</loc>
+    <lastmod>2026-06-21T11:57:39.538Z</lastmod>
   </url>
 </urlset>

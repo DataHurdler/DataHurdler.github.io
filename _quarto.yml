@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    # Drafted but not linked from the navbar -- excluded until it is ready.
+    - "!datascience.qmd"
   resources:
     - CV_Luo.pdf
   
