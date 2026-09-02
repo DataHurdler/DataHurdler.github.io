@@ -5,3 +5,8 @@
 .DS_Store
 
 /.quarto/
+
+# Stale leftovers from the site template. The real ones are generated into
+# docs/ by `quarto render` -- the leading slash keeps those tracked.
+/sitemap.xml
+/search.json
