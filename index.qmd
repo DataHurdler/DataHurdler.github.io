@@ -1,5 +1,14 @@
 ---
 title: "Zijun Luo"
+format:
+  html:
+    include-in-header:
+      # Set as raw meta tags rather than a front-matter `description:`, which
+      # Quarto would also render as a visible subtitle on the About template.
+      text: |
+        <meta name="description" content="Zijun Luo, assistant professor of economics at the University of Nebraska at Omaha, working in applied microeconomics, conflict theory, and the Chinese economy.">
+        <meta property="og:description" content="Zijun Luo, assistant professor of economics at the University of Nebraska at Omaha, working in applied microeconomics, conflict theory, and the Chinese economy.">
+        <meta name="twitter:description" content="Zijun Luo, assistant professor of economics at the University of Nebraska at Omaha, working in applied microeconomics, conflict theory, and the Chinese economy.">
 image: images/zijunluo.jpg
 about:
   id: hero-heading

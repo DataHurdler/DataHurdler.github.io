@@ -12,13 +12,13 @@ website:
   page-navigation: false
   title: "Zijun Luo"
   site-url: https://www.luozijun.com
+  description: "Zijun Luo, assistant professor of economics at the University of Nebraska at Omaha, working in applied microeconomics, conflict theory, and the Chinese economy."
+  image: images/zijunluo.jpg
+  open-graph: true
+  twitter-card: true
   favicon: images/z-icon.png
-  # repo-url: https://github.com/lianyujun/lianyujun.github.io
-  # repo-actions: [edit, issue]
   
   page-footer:
-    # left: |
-    #   [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
