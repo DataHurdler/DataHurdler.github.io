@@ -32,6 +32,6 @@ format: html
 
 ## Working Papers
 
-1. Income Rank and the Valuation of Child Obedience (with Shunyi Yan, Yonghong Zhou, and Qing Yao)
-2. The Impact of Aging on AI Adoption: Evidence from China (with Guofeng Guan and Xiaobo He)
+1. Income Rank and the Valuation of Child Obedience. Submitted. (with Shunyi Yan, Yonghong Zhou, and Qing Yao)
+2. The Impact of Aging on AI Adoption: Evidence from China. Revised and resubmitted, _China Economic Review_. (with Guofeng Guan and Xiaobo He)
 3. Artificial Intelligence and the Demand for Hours Worked: Theory and Evidence from China (with Guofeng Guan, Xiaobo He, and Chen Sun)
