@@ -17,7 +17,7 @@ The list is ordered alphabetically by book titles.
 - _Breaking Boundaries_: The Science Behind our Planet, by Johan Rockstrom and Owen Gaffney [Link](https://www.amazon.com/Breaking-Boundaries-Johan-Rockstrom/dp/0744028132/)
 - _Chatter_: The Voice in Our Head, Why It Matters, and How to Harness It, by Ethan Kross [Link](https://www.amazon.com/Chatter-Voice-Head-Matters-Harness/dp/0525575243/)
 - _Fooled by Randomness_: The Hidden Role of Chance in Life and in the Markets, by Nassim Nicholas Taleb [Link](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936/)
-- _Hitchhiker: A Biography of Douglas Adams_, by M. J. Simpson [Link](https://www.amazon.com/Hitchhiker-Biography-M-J-Simpson/dp/1932112170/)
+- _Hitchhiker_: A Biography of Douglas Adams, by M. J. Simpson [Link](https://www.amazon.com/Hitchhiker-Biography-M-J-Simpson/dp/1932112170/)
 - _Hooked_: Food, Free Will, and How the Food Giants Exploit Our Addictions, by Michael Moss [Link](https://www.amazon.com/Hooked-Food-Giants-Exploit-Addictions/dp/0812997298/)
 - _How Not to Be Wrong_: The Power of Mathematical Thinking, by Jordan Ellenberg [Link](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/)
 - _I Deliver Parcels in Beijing_, by Hu Anyan [Link](https://www.amazon.com/Deliver-Parcels-Beijing-Hu-AnYan/dp/1662603746/)
