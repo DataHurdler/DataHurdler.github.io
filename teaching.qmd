@@ -8,9 +8,11 @@ format: html
 - Principles of Microeconomics (ECON2200)
   - Spring 2026(2), Spring 2022, Fall 2021
 - Intermediate Microeconomics (ECON3200)
-  - Fall 2025
-- Business Forecasting (ECON8310)
-  - Fall 2026
+  - Spring, 2027, Fall 2025
+- Business Forecasting (ECON8310) [Course Link](./forecasting-course/)
+  - Spring 2027, Fall 2026
+- Applied Research Methods in Economics and Business (ECON8400)
+  - Spring 2027
 - Economics: Essential Concepts for Managers (BSAD8150, MBA)
   - Spring 2025, Fall 2024, Spring 2022(3), Fall 2021(2)
 - Business Analytics (BSAD8700, MBA)
