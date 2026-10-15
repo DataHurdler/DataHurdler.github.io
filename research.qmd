@@ -20,7 +20,7 @@ format: html
 2. Xiaobo He, Zijun Luo, and Junjie Zhang. The Impact of Air Pollution on Movie Theater Admissions. _Journal of Environmental Economics and Management_, 113, 102626, 2022. [Link](https://doi.org/10.1016/j.jeem.2022.102626)
 3. Zijun Luo and Yonghong Zhou. Decomposing the Effects of Consumer Boycotts: Evidence from the Anti-Japanese Demonstration in China. _Empirical Economics_, 58, 2615-2634, 2020. [Link](https://link.springer.com/article/10.1007/s00181-019-01650-3)
 4. Xiaobo He and Zijun Luo. Does Hukou Pay? Evidence from Nanny Markets in Urban China. _China Economic Review_, 63, 101509, 2020. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1043951X20301061)
-5. Zijun Luo and Xu Tian. Can China’s Meat Imports Be Sustainable? A Case Study of Mad Cow Disease. _Applied Economics_, 50(9), 1022-1042, 2018. [Link](http://dx.doi.org/10.1080/00036846.2017.1349288)
+5. Zijun Luo and Xu Tian. Can China's Meat Imports Be Sustainable? A Case Study of Mad Cow Disease. _Applied Economics_, 50(9), 1022-1042, 2018. [Link](http://dx.doi.org/10.1080/00036846.2017.1349288)
 6. Zhiqiang Dong, Zijun Luo, and Xiahai Wei. Social Insurance with Chinese Characteristics: The Role of Communist Party in Private Firms. _China Economic Review_, 37, 40-51, 2016. [Link](http://dx.doi.org/10.1016/j.chieco.2015.09.009)
 
 ### Other
