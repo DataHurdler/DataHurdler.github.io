@@ -8,7 +8,7 @@ format: html
 - Principles of Microeconomics (ECON2200)
   - Spring 2026(2), Spring 2022, Fall 2021
 - Intermediate Microeconomics (ECON3200)
-  - Spring, 2027, Fall 2025
+  - Spring 2027, Fall 2025
 - Business Forecasting (ECON8310) [Course Link](./forecasting-course/)
   - Spring 2027, Fall 2026
 - Applied Research Methods in Economics and Business (ECON8400)
